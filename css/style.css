@@ -1,0 +1,129 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: capitalize;
+}
+.navbar .navbar-nav .nav-link{
+    color: white;
+}
+.navbar .navbar-nav .nav-link:active,
+.navbar .navbar-nav .nav-link:hover{
+    color: aquamarine;
+}
+.img-navbar{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.navbar button{
+    color: white;
+}
+.img-main{
+    width: 100%;
+    height: 100vh;
+}
+.carousel{
+    height: 99vh;
+}
+.card .card-header ,.card-title ,.card-text{
+  color: white;
+}
+.titel1{
+    padding: 25px;
+    background-color: gray;
+}
+
+.accordion .accordion-button:hover{
+    background-color: rgb(15, 15, 27);
+    color: white;
+}
+.prg1{
+    color: rgb(0, 0, 255);
+}
+.card-body{
+    margin-top: -8px;
+}
+code{
+    display: block;
+}
+
+.card2{
+    text-align: center;
+}
+.card2-img-top ,.card-img-top{
+    height: 250px;
+    width: 135px;
+    margin-bottom: 15px; 
+}
+.card-img-top{
+    margin: auto;
+}
+.container-lg{
+    margin-top: 15px;
+}
+.card{
+    text-align: center;
+}
+.row{
+    margin: 10px 10px;
+}
+.link-us{
+    width: 30%;
+    height: 100px;
+    text-align: center;
+    margin: 0px 15px;
+    border-radius: 20px;
+}
+.icon-us{
+    color: blue;
+    font-size: 25px;
+}
+.a1{
+    color: rgb(251, 236, 236);
+}
+.container3-xxl ,.container2-fluid{
+    margin-top: -10px;
+}
+.body {
+    display: flex;
+}
+.body-footer{
+    width: 30%;
+    text-align: center;
+    margin: 15px auto;
+}
+.icon-footer{
+    font-size: 30px;
+    color: blue;
+}
+.prg-end{
+    text-align: center;
+
+}
+.photo2{
+    margin-top: -8px;
+    height: 50vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.photo2{
+    background-image: url(../images/pexels-ylanite-koppens-1809340.jpg);
+}
+.photo1{
+    background-image: url(../images/pexels-marko-klaric-6408282.jpg);
+}
+.photo1{
+    margin-top: -8px;
+    height: 50vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.icon2{
+    color: blue;
+}
+
